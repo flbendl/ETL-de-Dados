@@ -1,4 +1,5 @@
 import csv
+import pandas
 
 contador=0
 with open('202005_AuxilioEmergencial_NOVISSIMO.csv','r',encoding='ISO-8859-1') as infile:
